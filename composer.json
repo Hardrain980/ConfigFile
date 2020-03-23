@@ -1,0 +1,15 @@
+{
+	"name": "hardrain980/config-file",
+	"type": "library",
+	"description": "A library to parse config files.",
+	"keywords": ["config file", "configuration", "tree"],
+	"homepage": "https://hardrain980.com",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "hardrain",
+			"email": "i@hardrain980.com",
+			"homepage": "https://hardrain980.com"
+		}
+	]
+}
